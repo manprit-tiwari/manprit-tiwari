@@ -1,56 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manprit Tiwari
-======================================================================================================================================
+# 👋 Hey there, I'm Manprit Tiwari!
 
-MEAN stack Developer
---------------------
+### 🚀 Full Stack Web Developer & DevOps Engineer  
+*“Building scalable systems that make life easier”*
 
-I am currently persuing my Bacholer's degree in Computer Application ( Second Year ).
+---
 
-* 🌍  I'm based in Pune, Maharastra
-* ✉️  You can contact me at [tiwarimanprit1@gmail.com](mailto:tiwarimanprit1@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on any interesting Web Development Project.
-* ⚡  I have experience in converting Web application in Desktop and Mobile Application
+## 🧩 About Me  
+I’m a passionate developer who loves building **robust, scalable, and efficient applications**. My work often revolves around creating **REST APIs**, **full-stack web apps**, and exploring the **DevOps ecosystem** to automate, scale, and optimize deployment workflows.  
 
-### Skills
+I enjoy blending **clean code**, **modern architecture**, and **developer tooling** to bring ideas to life — from concept to production.  
+When I’m not coding, I’m probably refining my **Neovim setup**, experimenting with custom tooling, or contributing to open-source projects.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+---
 
+## 🛠️ Tech Stack  
 
-### Socials
+### 💻 Languages & Frameworks  
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-<p align="left"> <a href="https://www.github.com/manprit-tiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/manprit_tiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manprit-tiwari-78bbb01ba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18832281/manprit-tiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### 🧠 Tools & Platforms  
+![](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🎯 Current Focus  
+🌱 Currently exploring **DevOps** practices — from CI/CD pipelines and container orchestration to cloud automation.  
+💡 Experimenting with tools like **Docker**, **Kubernetes**, and **AWS** to bridge the gap between development and deployment.  
+🛠️ Open to collaborating on **open-source projects** that push performance, scalability, and developer experience forward.
 
-<a href="http://www.github.com/manprit-tiwari"><img src="https://github-readme-stats.vercel.app/api?username=manprit-tiwari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="manprit-tiwari's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/manprit-tiwari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manprit-tiwari&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🌐 Connect  
+<!-- Add your links when ready -->
+<!-- Example:
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourwebsite.com)
+[![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+-->
 
-<a href="http://www.github.com/manprit-tiwari"><img src="https://activity-graph.herokuapp.com/graph?username=manprit-tiwari&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/manprit-tiwari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manprit-tiwari&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 📊 GitHub Stats  
+
+![Manprit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manprit-tiwari&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manprit-tiwari&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+⭐️ *“Code. Automate. Scale. Repeat.”*  
