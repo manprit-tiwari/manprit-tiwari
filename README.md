@@ -39,11 +39,12 @@ When I’m not coding, I’m probably refining my **Neovim setup**, experimentin
 💡 Experimenting with tools like **Docker**, **Kubernetes**, and **AWS** to bridge the gap between development and deployment.  
 🛠️ Open to collaborating on **open-source projects** that push performance, scalability, and developer experience forward.
 
+<!-- Add your links when ready -->
+<!-- Example:
 ---
 
 ## 🌐 Connect  
-<!-- Add your links when ready -->
-<!-- Example:
+
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourwebsite.com)
 [![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
